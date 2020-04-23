@@ -14,7 +14,9 @@ pip install opencv-python
 2. Test OpenCV Installation
 
 C:\> python
+
 >>> import cv2
+
 >>> print(cv2.__version__)
 
 '3.4.0' # your version may be a newer one
